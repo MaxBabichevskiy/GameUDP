@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\GameClient\GameClient\bin\Debug\GameClient.exe.config
+C:\Users\babic\source\repos\GameClient\GameClient\bin\Debug\GameClient.exe
+C:\Users\babic\source\repos\GameClient\GameClient\bin\Debug\GameClient.pdb
+C:\Users\babic\source\repos\GameClient\GameClient\obj\Debug\GameClient.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\GameClient\GameClient\obj\Debug\GameClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\GameClient\GameClient\obj\Debug\GameClient.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\GameClient\GameClient\obj\Debug\GameClient.exe
+C:\Users\babic\source\repos\GameClient\GameClient\obj\Debug\GameClient.pdb

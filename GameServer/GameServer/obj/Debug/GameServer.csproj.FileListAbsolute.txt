@@ -1,0 +1,8 @@
+C:\Users\babic\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe.config
+C:\Users\babic\source\repos\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Users\babic\source\repos\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Users\babic\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
+C:\Users\babic\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\babic\source\repos\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\babic\source\repos\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Users\babic\source\repos\GameServer\GameServer\obj\Debug\GameServer.pdb
